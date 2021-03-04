@@ -38,15 +38,10 @@ How do we know which data should be kept and which to be deleted, and within wha
 ### Principle 11 – limits on disclosure of personal information
 How can we disclose information that does not identify the person concerned?
 
-Create an aggregated report function.
- 
 How can we ensure we are authorized to disclose the personal information of the user?
 
-Have the user go through and read the privacy policy which gives us authorization for use of the personal information. Set up the page so that only when the document is fully scrolled to the bottom will it be allowed to move to next page. 
-
-## CHECKLIST
-
-
+- [ ] Create an aggregate report function that does not disclose individual personal information
+- [ ] Set up link to the terms and condition and privacy notice before sign up and a checkbox for user to acknowledge having read and agreeing to the terms
 
 
 
