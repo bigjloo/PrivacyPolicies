@@ -12,3 +12,5 @@ The website collects:
 * Operating system
 * Type of browser
 * Location
+
+<!-- don't forget to use a tool to generate the policy for you -->
