@@ -44,22 +44,4 @@ How can we ensure we are authorized to disclose the personal information of the 
 - [ ] Set up link to the terms and condition and privacy notice before sign up and a checkbox for user to acknowledge having read and agreeing to the terms
 
 
-## 2. Privacy Policy
-http://cpp.iqualify.com is Whitecliffe College's online learning management system website. 
-The purpose of the website is to allow course coordinators to plan and deliver course content and to allow students to learn and study online. 
-	
-The website collects:
-* Name
-* Contact information
-* IP address
-* Date and time of visit to the site,
-* Pages accessed and documents downloaded,
-* Operating system
-* Type of browser
-* Location
-
-
-	### Privacy Policy
-
-![image](https://user-images.githubusercontent.com/12246575/109902924-f42c9800-7cff-11eb-816c-50194a1a1126.png)
 
