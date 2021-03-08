@@ -1,7 +1,5 @@
-# PrivacyPolicies
-### Professional Practice - Assessment 1 - IT and Law
 
-
+# Professional Practice - Assessment 1 - IT and Law
 ## 1. Privacy Checklist
 Select **five privacy principles** and provide **two actionable items** for each principle.
 
