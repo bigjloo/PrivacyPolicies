@@ -14,3 +14,5 @@ The website collects:
 * Location
 
 <!-- don't forget to use a tool to generate the policy for you -->
+
+[a link](https://jovial-poitras-65c849.netlify.app/)
