@@ -15,4 +15,4 @@ The website collects:
 
 <!-- don't forget to use a tool to generate the policy for you -->
 
-[a link](https://jovial-poitras-65c849.netlify.app/)
+[Privacy Policy for Iqualify](https://jovial-poitras-65c849.netlify.app/)
